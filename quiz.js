@@ -146,7 +146,7 @@
         correctAnswer: "d"
       },
       {
-        question: "What is a common name for Nitrous Oxide?Wh",
+        question: "What is a common name for Nitrous Oxide?",
         answers: {
           a: "Laughing Gas",
           b: "Chronic Gas",
